@@ -8,8 +8,8 @@
 🌱 I’m currently learning:
   - React through https://scrimba.com
   - CSS for JS through https://css-for-js.dev
-  - better CSS practices through https://www.beyondcss.dev 
-  - better JavaScript practices through: https://justjavascript.com, https://javascript.info/
+  - CSS best practices through https://www.beyondcss.dev 
+  - JavaScript best practices through: https://justjavascript.com, https://javascript.info/
 
 📫 You can reach me at: georgelevov@gmail.com
 
