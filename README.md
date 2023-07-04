@@ -2,7 +2,7 @@
 
 👀 I’m interested in:
   - creating easy to use and aesthetically attractive UI
-  - providing the coziness of a warm fireplace through a webpage
+  - providing the coziness of a warm fireplace through a webapp
   - cars, computers and CSS
 
 
