@@ -6,10 +6,10 @@
   - cars, computers and CSS
 
 
-🌱 I’m currently learning:
-  - React through https://scrimba.com
-  - CSS for JS through https://css-for-js.dev
-  - JavaScript best practices through: https://justjavascript.com, https://javascript.info/
+🌱 What I'm currently up to:
+  - Working on React projects through (Front-End Developer Career Path) through [https://scrimba.com](https://scrimba.com)
+  - getting perspective on UX mental models through (CSS for JS) [https://css-for-js.dev](https://css-for-js.dev)
+  - revisiting JavaScriptthrough: [https://javascript.info/](https://justjavascript.com/)
 
 📫 You can reach me at: georgelevov@gmail.com
 
